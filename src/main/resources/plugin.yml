@@ -1,0 +1,19 @@
+name: AbendBasic
+main: studio.abendreden.abendbasic.AbendBasic
+version: 1.0
+api-version: 1.18
+commands:
+  gamemode:
+    aliases:
+      - gm
+  fly:
+  feed:
+  heal:
+  invsee:
+    aliases:
+      - inv
+  reloadmessages:
+    aliases:
+      - rlmsg
+      - reloadmsg
+      - rlmessages
