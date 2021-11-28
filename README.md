@@ -2,10 +2,10 @@
 Ist von mir ein selbst programmiertes Plugin ,dass kleinere Funktionen besitzt für die Version 1.18-rc3.
 
 # Befehle
-  /heal [<Player>]           | Gibt dir oder einen anderen Spieler volles Leben
-  /feed [<Player>]           | Gibt dir oder einen anderen Spieler volles Essen
-  /fly [<Player>]            | Gibt dir oder einen anderen Spieler die möglichkeit zum Fliegen
-  /gm [<Player>] <0/1/2/3>   | Gibt dir oder einen anderen Spieler einen anderen Spielmodus
+  /heal [Player]             | Gibt dir oder einen anderen Spieler volles Leben
+  /feed [Player]             | Gibt dir oder einen anderen Spieler volles Essen
+  /fly [Player]              | Gibt dir oder einen anderen Spieler die möglichkeit zum Fliegen
+  /gm [Player] <0/1/2/3>     | Gibt dir oder einen anderen Spieler einen anderen Spielmodus
   /invsee <Player>           | Gibt dir die möglichkeit in anderen Player Inventaren zuschauen
   /rlmsg                     | Reloadet alle Messages von der Config
 
