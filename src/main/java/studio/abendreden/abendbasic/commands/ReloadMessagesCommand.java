@@ -9,7 +9,7 @@ import studio.abendreden.abendbasic.utils.ConfigMessages;
 public class ReloadMessagesCommand implements CommandExecutor {
     @Override
     public boolean onCommand(@NotNull CommandSender sender, @NotNull Command command, @NotNull String label, @NotNull String[] args) {
-        if (sender.hasPermission("essentials.reload.messages")) {
+        if (sender.hasPermission("abendreden.reload.messages")) {
             if (args.length == 0) {
                 new ConfigMessages();
                 sender.sendMessage(ConfigMessages.reloadMessagesCommand);
