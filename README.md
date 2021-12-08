@@ -1,5 +1,5 @@
 # AbendBasic
-Ist von mir ein selbst programmiertes Plugin ,dass kleinere Funktionen besitzt für die Version 1.18-rc3.
+Ist von mir ein selbst programmiertes Plugin ,dass kleinere Funktionen besitzt für die Version 1.18.
 
 # Befehle
 /heal [Player] | Gibt dir oder einen anderen Spieler volles Leben                                                                                                                   
